@@ -1,0 +1,30 @@
+.img
+{
+    background-image: url("image4.png");
+    background-size: 50%;
+    height:100vh;
+    width: 60vw;
+    background-repeat: no-repeat;
+    margin-left: 500px;
+}
+.did
+{
+    background-color: rgb(19, 17, 17);
+    color: antiquewhite;
+    margin-right: 50%;
+    margin-top:40%;
+    margin-left:5%;
+    margin: 2px;
+    
+}
+.btn
+{
+    border-radius: 7px;
+    height: 40px;
+    width: 130px;
+    padding: 2px;
+    font-size: small;
+    margin-left: 80px;
+    border-width: 1px;
+
+}

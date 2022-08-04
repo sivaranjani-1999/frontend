@@ -1,0 +1,29 @@
+.img{
+    background-image: url("image1.png");
+    background-size: 50%;
+    height:100vh;
+    background-repeat: no-repeat;
+    margin-left: 500px;
+}
+.text
+{
+    color:white;
+}
+.todo
+{
+    color: white;
+    margin-left: 100px;
+    
+}
+.btn{
+    background-color: darkgoldenrod;
+    color: aliceblue;
+    padding: 4px;
+    margin-left:130px ;
+    border-color: darkgoldenrod;
+}
+.last
+{
+    color: aliceblue;
+    margin-left: 100px;
+}
